@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1175702141151,
+    "title": "Example list",
+    "items": [
+      {
+        "id": 1175702141155,
+        "name": "First example",
+        "isCompleted": false
+      },
+      {
+        "id": 1175702141156,
+        "name": "Second example",
+        "isCompleted": false
+      },
+      {
+        "id": 1175702141157,
+        "name": "Third example",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "id": 1175702141551,
+    "title": "Shopping list",
+    "items": [
+      {
+        "id": 1175702141555,
+        "name": "Eggs",
+        "isCompleted": true
+      },
+      {
+        "id": 1175702141556,
+        "name": "Milk 2L",
+        "isCompleted": false
+      },
+      {
+        "id": 1175702141557,
+        "name": "Chocolate",
+        "isCompleted": false
+      },
+      {
+        "id": 1175702141558,
+        "name": "Lays crisp",
+        "isCompleted": false
+      }
+    ]
+  }
+]
